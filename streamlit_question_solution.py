@@ -29,6 +29,9 @@ if number_one_data == "No Data":
 else:
     st.success("Data Found!")
 
+    # Bonus snow - not part of test!
+    st.snow()
+
     st.write(f"In {user_year_of_birth} the Christmas Number 1",
                f"was {number_one_data['title']} by {number_one_data['primary_artist']}")
 
