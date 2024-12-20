@@ -1,8 +1,8 @@
 # HSMA 6 - Mock Assessment
 
-This repository contains a mock assessment for HSMA 6. 
+This repository contains a mock assessment for HSMA 6. This can be used as preparation for the full assessment, which will take place on **Tuesday 28th January 2025** between 10 and 12am. 
 
-The full assessment will take place on **28th January 2025** between 10 and 12am. 
+Materials for the full assessment will be released on the day - these are **mock** questions only. 
 
 Full details of the assessment - and alternative routes to certification - can be found on [our website](https://hsma-programme.github.io/hsma_site/assessment_faqs.html). 
 
